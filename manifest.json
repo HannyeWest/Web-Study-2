@@ -5,7 +5,7 @@
   "short_name": "Online Shopping",
   "scope": "https://hannyewest.github.io/Web-Study-2/",
   "display": "standalone",
-  "start_url": "https://hannyewest.github.io/Web-Study-2/",
+  "start_url": "Web-Study-2/",
   "background_color": "transparent",
   "theme_color": "transparent",
   "orientation": "any",
