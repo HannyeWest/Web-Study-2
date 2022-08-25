@@ -3,7 +3,7 @@
   "lang": "en",
   "name": "Online Shopping Example",
   "short_name": "Online Shopping",
-  "scope": "https://hannyewest.github.io/Web-Study-2/",
+  "scope": "/",
   "display": "standalone",
   "start_url": "/hannyewest.github.io/Web-Study-2/",
   "background_color": "transparent",
