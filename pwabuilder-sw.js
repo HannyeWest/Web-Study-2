@@ -6,7 +6,7 @@ importScripts(
 
 const CACHE = 'pwabuilder-page';
 
-const offlineFallbackPage = 'offline.html';
+const offlineFallbackPage = 'https://hannyewest.github.io/Web-Study-2/offline.html';
 
 self.addEventListener('message', event => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
